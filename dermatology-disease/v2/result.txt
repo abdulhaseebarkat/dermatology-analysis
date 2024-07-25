@@ -1,0 +1,14 @@
+Best Model: 
+    Optimizer: Adam
+    Loss: CategoricalCrossentropy
+Accuracy: 0.9851851851851852
+Recall: 0.986111111111111
+Precision: 0.9833333333333334
+F1 Score: 0.9839816933638444
+Confusion Matrix:
+[[25  0  0  0  0  0]
+ [ 0 22  0  2  0  0]
+ [ 0  0 27  0  0  0]
+ [ 0  0  0 18  0  0]
+ [ 0  0  0  0 19  0]
+ [ 0  0  0  0  0 22]]
